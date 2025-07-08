@@ -12,6 +12,10 @@
 
 *MENTOR: NEELA SANTOSH
 
+OUTPUT:
+
+<img width="1800" height="309" alt="Image" src="https://github.com/user-attachments/assets/d967e792-832b-450c-80e6-f3d99f57072f" />
+
 Description:
 This script uses the speech_recognition library to convert spoken words from an audio file (harvard.wav) into text using Google's Web Speech API. The process involves loading the audio, processing it, and interpreting it into human-readable text.
 
